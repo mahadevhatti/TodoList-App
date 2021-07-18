@@ -1,5 +1,6 @@
 # TodoList-App
-#### It is a basic todoList app, where you can be able to add your tworks you wanted to do. 
+#### This app allows you to add a list of tasks you need to complete, or things that you want to do. 
+
 
 <hr />
 <br />
